@@ -1,0 +1,14 @@
+C:\Users\Student\BKIT1\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\Student\BKIT1\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\Student\BKIT1\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\Student\BKIT1\Lab\Lab\obj\Debug\Lab_1.csprojAssemblyReference.cache
+C:\Users\Student\BKIT1\Lab\Lab\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Student\BKIT1\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\Student\BKIT1\Lab\Lab\obj\Debug\Lab.pdb
+C:\Git\ЛР2\Lab\bin\Debug\Lab.exe.config
+C:\Git\ЛР2\Lab\bin\Debug\Lab.exe
+C:\Git\ЛР2\Lab\bin\Debug\Lab.pdb
+C:\Git\ЛР2\Lab\obj\Debug\Lab_1.csprojAssemblyReference.cache
+C:\Git\ЛР2\Lab\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Git\ЛР2\Lab\obj\Debug\Lab.exe
+C:\Git\ЛР2\Lab\obj\Debug\Lab.pdb

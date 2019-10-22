@@ -1,0 +1,11 @@
+C:\Git\ЛР2\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Git\ЛР2\Lab_3\bin\Debug\Lab_3.exe
+C:\Git\ЛР2\Lab_3\bin\Debug\Lab_3.pdb
+C:\Git\ЛР2\Lab_3\bin\Debug\Lab_2.exe
+C:\Git\ЛР2\Lab_3\bin\Debug\Lab_2.pdb
+C:\Git\ЛР2\Lab_3\bin\Debug\Lab_2.exe.config
+C:\Git\ЛР2\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+C:\Git\ЛР2\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Git\ЛР2\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+C:\Git\ЛР2\Lab_3\obj\Debug\Lab_3.exe
+C:\Git\ЛР2\Lab_3\obj\Debug\Lab_3.pdb
